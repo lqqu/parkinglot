@@ -1,0 +1,14 @@
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/ClassLibrary2.deps.json
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/ClassLibrary2.runtimeconfig.json
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/ClassLibrary2.runtimeconfig.dev.json
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/ClassLibrary2.dll
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/bin/Debug/netcoreapp2.2/ClassLibrary2.pdb
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.csprojAssemblyReference.cache
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.AssemblyInfoInputs.cache
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.AssemblyInfo.cs
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.dll
+/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.pdb
