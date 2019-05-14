@@ -12,3 +12,17 @@
 /Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.AssemblyInfo.cs
 /Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.dll
 /Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/Debug/netcoreapp2.2/ClassLibrary2.pdb
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.csprojAssemblyReference.cache
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.AssemblyInfoInputs.cache
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.AssemblyInfo.cs
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.dll
+/Users/lqqu/RiderProjects/OOParkingLot/obj/Debug/netcoreapp2.2/ClassLibrary2.pdb
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/ClassLibrary2.deps.json
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/ClassLibrary2.runtimeconfig.json
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/ClassLibrary2.runtimeconfig.dev.json
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/ClassLibrary2.dll
+/Users/lqqu/RiderProjects/OOParkingLot/bin/Debug/netcoreapp2.2/ClassLibrary2.pdb

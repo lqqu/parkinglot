@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj",
+    "projectUniqueName": "/Users/lqqu/RiderProjects/OOParkingLot/ClassLibrary2.csproj",
     "projectName": "ClassLibrary2",
-    "projectPath": "/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/ClassLibrary2.csproj",
-    "outputPath": "/Users/tzhou/RiderProjects/ClassLibrary2/ClassLibrary2/obj/",
+    "projectPath": "/Users/lqqu/RiderProjects/OOParkingLot/ClassLibrary2.csproj",
+    "outputPath": "/Users/lqqu/RiderProjects/OOParkingLot/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
